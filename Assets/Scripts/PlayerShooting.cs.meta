@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 730c822edf164da40ad4216deb7cb88f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCam: {instanceID: 0}
+  - bulletImpact: {fileID: 2201038106820511383, guid: 4602a6354ca557e4391f6a4ebc8bf8a0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
